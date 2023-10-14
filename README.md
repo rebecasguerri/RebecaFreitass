@@ -20,8 +20,6 @@
 ![HTML](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RebecaFreitass&bg_color=00000c&color=f88080&line=cd5d5c&point=d73c72&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
